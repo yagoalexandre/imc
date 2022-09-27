@@ -1,0 +1,3 @@
+aprender a fazer o calculo do imc e fazer isso em php // já foi
+aprender a fazer as tabelas em html
+aprender a fazer a comunicação html com o php 
